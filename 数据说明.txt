@@ -1,0 +1,4 @@
+Review #	Brand	Variety	Style	Country	Stars
+编号		品牌	品种	包装	国家	星级
+
+各数据字段以制表符隔开
